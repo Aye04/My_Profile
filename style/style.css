@@ -1,0 +1,136 @@
+*{
+   /* border: 2px solid rgb(255, 0, 0); */
+}
+
+body{
+    background-image: linear-gradient(black, #330033);
+    
+}
+
+p{
+    color: white;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+h1{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 400%;
+    text-align: center;
+}
+
+#mainh{
+    margin-left: 5%;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 400%;
+    width: 10%;
+}
+
+h2{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 250%;
+}
+
+h4{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h5{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100%;
+}
+
+#name{
+    margin-left: 5%;
+    margin-right: 60%;
+}
+
+#welcome{
+    margin-left: 28%;
+    margin-right: 30%;
+    padding: auto;
+    text-align: right;
+    color: #CC00CC;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1000%
+}
+
+.left{
+    margin-bottom: 1%;
+    margin-top: 1%;
+    text-align: left;
+
+}
+
+#headdiv{
+    background-image: linear-gradient(black, #330033);
+}
+
+.nav{
+    border: 3px asoid green;
+    margin-right: 5%;
+    float: right;
+    position: relative;
+    top: -170px;
+}
+
+.nav li{
+    display: inline;
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+ul a:hover{
+    text-decoration: underline;
+}
+
+ul a{
+    font-size: 300%;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    word-spacing: 5%;
+}
+
+a{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+p a:hover{
+    color: hotpink;
+}
+
+main{
+    text-align: center;
+}
+
+#first{
+    width: 50%;
+    border: 10px solid rgb(255, 255, 255);
+}
+
+#second{
+    width: 50%;
+    border: 10px solid rgb(255, 255, 255);
+}
+
+#third{
+    width: 50%;
+}
+
+footer{
+    text-align: center;
+    background-image: linear-gradient(black, #330033);
+}
